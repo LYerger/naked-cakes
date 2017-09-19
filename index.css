@@ -1,0 +1,50 @@
+.header-img {
+    position: static;
+    width: 25%;
+    margin-left: 37.5%;
+}
+
+.home-img {
+    position: static;
+    width: 50%;
+    margin-left: 25%;
+    padding: 50px;
+}
+
+.topnav {
+    text-align: center;
+    font-family: "Avenir";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#li-nav {
+    display: inline-block;
+    
+}
+
+#li-nav a {
+    display: inline-block;
+    color: black;
+    margin: auto;
+    text-align: center;
+    padding: 14px 46px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#li-nav a:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#ready-to-order {
+    text-align: center;
+    margin: 14px;
+    font-family: "Avenir";
+    font-size: 30;
+    font-weight: bold;
+}
